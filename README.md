@@ -1,8 +1,10 @@
 #####Processing csv file and download images from the url that were found
 This script:
+
 	input CSV file,
 	filters each line for existence in it url with a certain extension (passed as the second argument to the console),
 	and if the line is filtered, then in it:
+
 		find product SKU,
 		create a directory called SKU of Product,
 		download all images from all links of this line in this folder.
