@@ -3,7 +3,7 @@ This script:
 
 - input CSV file,
 - filters each line for existence in it url with a certain extension (passed as the second argument to the console),
--and if the line is filtered, then in it:
+- and if the line is filtered, then in it:
 
 	- find product SKU,
 	- create a directory called SKU of Product,
