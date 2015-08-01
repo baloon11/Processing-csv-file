@@ -9,10 +9,6 @@ This script:
 	- create a directory called SKU of Product,
 	- download all images from all links of this line in this folder.
 
-This script solves a very narrow problem , it is associated with a form of csv file.
-But it can be the basis to create other scripts for the csv file of another type.
-
-
 Usage
 -----
 	python pic_from_url.py image_path.csv .ashx?la=en
@@ -28,3 +24,8 @@ Python version 2.7
 
 It has been tested on Ubuntu 12.04.
 but it will work on a higher version.
+
+-----------------------------------------
+
+This script solves a very narrow problem , it is associated with a form of csv file.
+But it can be the basis to create other scripts for the csv file of another type.
