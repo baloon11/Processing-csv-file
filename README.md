@@ -20,6 +20,7 @@ Usage
 
 Script uses standard python library
 and does not need additional packages.
+
 	Python version 2.7
 
 It has been tested on Ubuntu 12.04.
